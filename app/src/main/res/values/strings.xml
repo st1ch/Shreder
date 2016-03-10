@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Shreder</string>
+    <string name="file_name">Имя файла: %1$s</string>
+    <string name="deleted_file_name">Файл: %1$s был полностью удален</string>
+    <string name="deleting_time">Затраченое время: %1$s</string>
+    <string name="choose_file">Выбрать файл</string>
+    <string name="delete_file">Удалить</string>
+    <string name="delete_confirm">Вы уверены что хотите удалить файл?</string>
+    <string name="open_delete_error">Файл не существует</string>
+    <string name="deleting_file_progress">Файл очищается. Подождите...</string>
+</resources>
